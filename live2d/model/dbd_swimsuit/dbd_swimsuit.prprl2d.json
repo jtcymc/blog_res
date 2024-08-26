@@ -1,0 +1,151 @@
+
+{
+    "customName" : "dbd_swimsuit",
+    "iconPath"   : "",
+    "bodyPhysics" : 0.6,
+    "useAnimBlend" : 0,
+    "modelPos"     : {
+        "x" : -0.157408714294434,
+        "y" : -5.17129564285278,
+        "z" : -0.800000011920929
+    },
+    "modelSize"    : {
+        "x" : 10.0,
+        "y" : 10.0,
+        "z" : 5.0
+    },
+    "modelAngle"   : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+    },
+    "capsuleRadius" : 2,
+    "capsuleHeight" : 8.000001,
+    "capsulePos"    : {
+        "x" : -0.157408714294434,
+        "y" : -5.17129564285278,
+        "z" : -1.79999995231628
+    },
+    "defaultAnimIndex" : -1,
+    "keys"             : [
+        {
+            "type" : 0,
+            "bindAction" : "-1",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    48
+                ],
+                "actionName" : "",
+                "isGlobal"   : false,
+                "isApply"    : true
+            }
+        }
+    ],
+    "useVoice"         : false,
+    "voiceParams"      : [
+        1,
+        1,
+        0.5,
+        0.3,
+        0.4,
+        0.1,
+        1,
+        -1,
+        0.4,
+        1
+    ],
+    "facialSettingMapV2" : {
+        "yaw" : {
+            "dataIndex" : 0,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "pitch" : {
+            "dataIndex" : 1,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "roll"  : {
+            "dataIndex" : 2,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "eyeL"  : {
+            "dataIndex" : 3,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "eyeR"  : {
+            "dataIndex" : 4,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "browLY" : {
+            "dataIndex" : 5,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "browRY" : {
+            "dataIndex" : 6,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "mouthY" : {
+            "dataIndex" : 7,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "mouthX" : {
+            "dataIndex" : 8,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "eyeballX" : {
+            "dataIndex" : 9,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "eyeballY" : {
+            "dataIndex" : 10,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "browform" : {
+            "dataIndex" : 11,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "facesite" : {
+            "dataIndex" : 12,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "facedistance" : {
+            "dataIndex" : 13,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "tongue"       : {
+            "dataIndex" : 14,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        }
+    },
+    "L2DName"            : "",
+    "mapIsGlobal"        : false
+}

@@ -1,0 +1,621 @@
+
+{
+    "customName" : "bvb",
+    "iconPath"   : "bvb.png",
+    "bodyPhysics" : 0.9079383,
+    "useAnimBlend" : 0,
+    "modelPos"     : {
+        "x" : -1.05555856227875,
+        "y" : -5.92223787307739,
+        "z" : -0.800000011920929
+    },
+    "modelSize"    : {
+        "x" : 14.9000129699707,
+        "y" : 14.9000129699707,
+        "z" : 5.0
+    },
+    "modelAngle"   : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+    },
+    "capsuleRadius" : 3.019418,
+    "capsuleHeight" : 13.73323,
+    "capsulePos"    : {
+        "x" : -1.05555856227875,
+        "y" : -2.17219591140747,
+        "z" : -1.79999995231628
+    },
+    "defaultAnimIndex" : 1,
+    "keys"             : [
+        {
+            "type" : 2,
+            "bindAction" : "1",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    49
+                ],
+                "actionName" : "E01CatEar",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "2",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    50
+                ],
+                "actionName" : "E02CatBreadOff",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "3",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    51
+                ],
+                "actionName" : "E03CatEarOff",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "5",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    113
+                ],
+                "actionName" : "E04EyeOpen0of2.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "6",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    119
+                ],
+                "actionName" : "E05EyeOpen1of2.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "7",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    101
+                ],
+                "actionName" : "E06EyeOpen2of2.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "7",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    97
+                ],
+                "actionName" : "E07EyeSmile",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "8",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    115
+                ],
+                "actionName" : "E08FaceRed",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "9",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    100
+                ],
+                "actionName" : "E09FaceBlack",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "10",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    102
+                ],
+                "actionName" : "E10FaceColorReset",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "12",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    122
+                ],
+                "actionName" : "E11SPEyeDefault.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "13",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    120
+                ],
+                "actionName" : "E12SPEyeOO.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "14",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    99
+                ],
+                "actionName" : "E13SPEyeVV.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "15",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    105
+                ],
+                "actionName" : "E14HandBack.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "16",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    111
+                ],
+                "actionName" : "E15HandOutward.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "17",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    112
+                ],
+                "actionName" : "E16HandReset.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 2,
+            "bindAction" : "17",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    303,
+                    8
+                ],
+                "actionName" : "E17AssMoveOff",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "20",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    8
+                ],
+                "actionName" : "S01FaceReset.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "21",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    49
+                ],
+                "actionName" : "S02FaceSmile.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "22",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    50
+                ],
+                "actionName" : "S03FaceExcited.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "23",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    51
+                ],
+                "actionName" : "S04FaceSad.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "24",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    52
+                ],
+                "actionName" : "S05FaceBlack.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "25",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    53
+                ],
+                "actionName" : "S06FaceAngry.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "26",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    113
+                ],
+                "actionName" : "S07FaceTired.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "27",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    119
+                ],
+                "actionName" : "S08FaceSilly.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        },
+        {
+            "type" : 0,
+            "bindAction" : "28",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    305,
+                    101
+                ],
+                "actionName" : "S09FaceShock.motion3",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        }
+    ],
+    "useVoice"         : true,
+    "voiceParams"      : [
+        1,
+        1,
+        0.7126108,
+        1,
+        0.3135043,
+        1,
+        0.6530868,
+        0.03108096,
+        0.3135043,
+        0.04751313
+    ],
+    "facialSettingMapV2" : {
+        "yaw" : {
+            "dataIndex" : 0,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamAngleX",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -30,
+                    "pMaxValue" : 30,
+                    "lerpValue" : 0.6
+                },
+                {
+                    "paramName" : "ParamBodyAngleX",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -10,
+                    "pMaxValue" : 10,
+                    "lerpValue" : 0.6
+                }
+            ]
+        },
+        "pitch" : {
+            "dataIndex" : 1,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamAngleY",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -30,
+                    "pMaxValue" : 30,
+                    "lerpValue" : 0.6
+                },
+                {
+                    "paramName" : "ParamBodyAngleY",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -10,
+                    "pMaxValue" : 10,
+                    "lerpValue" : 0.6
+                }
+            ]
+        },
+        "roll"  : {
+            "dataIndex" : 2,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamAngleZ",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -30,
+                    "pMaxValue" : 30,
+                    "lerpValue" : 0.6
+                },
+                {
+                    "paramName" : "ParamBodyAngleZ",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -10,
+                    "pMaxValue" : 10,
+                    "lerpValue" : 0.6
+                }
+            ]
+        },
+        "eyeL"  : {
+            "dataIndex" : 3,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamEyeLOpen",
+                    "fMinValue" : -0.8,
+                    "fMaxValue" : 0.8,
+                    "pMinValue" : 0,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.4
+                }
+            ]
+        },
+        "eyeR"  : {
+            "dataIndex" : 4,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamEyeROpen",
+                    "fMinValue" : -0.8,
+                    "fMaxValue" : 0.8,
+                    "pMinValue" : 0,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.4
+                }
+            ]
+        },
+        "browLY" : {
+            "dataIndex" : 5,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamBrowLY",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                },
+                {
+                    "paramName" : "ParamBrowLAngle",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "browRY" : {
+            "dataIndex" : 6,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamBrowRY",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                },
+                {
+                    "paramName" : "ParamBrowRAngle",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "mouthY" : {
+            "dataIndex" : 7,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamMouthOpenY",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 0,
+                    "pMinValue" : 0,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.4
+                }
+            ]
+        },
+        "mouthX" : {
+            "dataIndex" : 8,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamMouthForm",
+                    "fMinValue" : -0.6,
+                    "fMaxValue" : 0.6,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "eyeballX" : {
+            "dataIndex" : 9,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamEyeBallX",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "eyeballY" : {
+            "dataIndex" : 10,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamEyeBallY",
+                    "fMinValue" : -0.5,
+                    "fMaxValue" : 0.5,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "browform" : {
+            "dataIndex" : 11,
+            "enableMapping" : true,
+            "paramSettingData" : [
+                {
+                    "paramName" : "ParamBrowLForm",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                },
+                {
+                    "paramName" : "ParamBrowRForm",
+                    "fMinValue" : -1,
+                    "fMaxValue" : 1,
+                    "pMinValue" : -1,
+                    "pMaxValue" : 1,
+                    "lerpValue" : 0.5
+                }
+            ]
+        },
+        "facesite" : {
+            "dataIndex" : 12,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "facedistance" : {
+            "dataIndex" : 13,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        },
+        "tongue"       : {
+            "dataIndex" : 14,
+            "enableMapping" : true,
+            "paramSettingData" : [
+            ]
+        }
+    },
+    "L2DName"            : "",
+    "mapIsGlobal"        : false
+}

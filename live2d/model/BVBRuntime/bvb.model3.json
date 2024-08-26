@@ -1,0 +1,166 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "bvb.moc3",
+    "Textures": ["bvb.4096/texture_00.png", "bvb.4096/texture_01.png"],
+    "Physics": "bvb.physics3.json",
+    "DisplayInfo": "bvb.cdi3.json",
+    "Expressions": [
+      {
+        "Name": "A01Idle",
+        "File": "expressions/A01Idle.exp3.json"
+      },
+      {
+        "Name": "E01CatEar",
+        "File": "expressions/E01CatEar.exp3.json"
+      },
+      {
+        "Name": "E02CatBreadOff",
+        "File": "expressions/E02CatBreadOff.exp3.json"
+      },
+      {
+        "Name": "E03CatEarOff",
+        "File": "expressions/E03CatEarOff.exp3.json"
+      },
+      {
+        "Name": "E04EyeOpen0of2",
+        "File": "expressions/E04EyeOpen0of2.exp3.json"
+      },
+      {
+        "Name": "E05EyeOpen1of2",
+        "File": "expressions/E05EyeOpen1of2.exp3.json"
+      },
+      {
+        "Name": "E06EyeOpen2of2",
+        "File": "expressions/E06EyeOpen2of2.exp3.json"
+      },
+      {
+        "Name": "E07EyeSmile",
+        "File": "expressions/E07EyeSmile.exp3.json"
+      },
+      {
+        "Name": "E08FaceRed",
+        "File": "expressions/E08FaceRed.exp3.json"
+      },
+      {
+        "Name": "E09FaceBlack",
+        "File": "expressions/E09FaceBlack.exp3.json"
+      },
+      {
+        "Name": "E10FaceColorReset",
+        "File": "expressions/E10FaceColorReset.exp3.json"
+      },
+      {
+        "Name": "E11SPEyeDefault",
+        "File": "expressions/E11SPEyeDefault.exp3.json"
+      },
+      {
+        "Name": "E12SPEyeOO",
+        "File": "expressions/E12SPEyeOO.exp3.json"
+      },
+      {
+        "Name": "E13SPEyeVV",
+        "File": "expressions/E13SPEyeVV.exp3.json"
+      },
+      {
+        "Name": "E14HandBack",
+        "File": "expressions/E14HandBack.exp3.json"
+      },
+      {
+        "Name": "E15HandOutward",
+        "File": "expressions/E15HandOutward.exp3.json"
+      },
+      {
+        "Name": "E16HandReset",
+        "File": "expressions/E16HandReset.exp3.json"
+      },
+      {
+        "Name": "E17AssMoveOff",
+        "File": "expressions/E17AssMoveOff.exp3.json"
+      },
+      {
+        "Name": "S01FaceReset",
+        "File": "expressions/S01FaceReset.exp3.json"
+      },
+      {
+        "Name": "S02FaceSmile",
+        "File": "expressions/S02FaceSmile.exp3.json"
+      },
+      {
+        "Name": "S03FaceExcited",
+        "File": "expressions/S03FaceExcited.exp3.json"
+      },
+      {
+        "Name": "S04FaceSad",
+        "File": "expressions/S04FaceSad.exp3.json"
+      },
+      {
+        "Name": "S05FaceBlack",
+        "File": "expressions/S05FaceBlack.exp3.json"
+      },
+      {
+        "Name": "S06FaceAngry",
+        "File": "expressions/S06FaceAngry.exp3.json"
+      },
+      {
+        "Name": "S07FaceTired",
+        "File": "expressions/S07FaceTired.exp3.json"
+      },
+      {
+        "Name": "S08FaceSilly",
+        "File": "expressions/S08FaceSilly.exp3.json"
+      },
+      {
+        "Name": "S09FaceShock",
+        "File": "expressions/S09FaceShock.exp3.json"
+      }
+    ],
+    "Motions": {
+      "Idle": [{ "File": "motions/A01Idle.motion3.json" }],
+      "000Temp": [{ "File": "motions/000Temp.motion3.json" }],
+
+      "E01CatEar": [{ "File": "motions/E01CatEar.motion3.json" }],
+      "E02CatBreadOff": [{ "File": "motions/E02CatBreadOff.motion3.json" }],
+      "E03CatEarOff": [{ "File": "motions/E03CatEarOff.motion3.json" }],
+      "E04EyeOpen0of2": [{ "File": "motions/E04EyeOpen0of2.motion3.json" }],
+      "E05EyeOpen1of2": [{ "File": "motions/E05EyeOpen1of2.motion3.json" }],
+      "E06EyeOpen2of2": [{ "File": "motions/E06EyeOpen2of2.motion3.json" }],
+      "E07EyeSmile": [{ "File": "motions/E07EyeSmile.motion3.json" }],
+      "E08FaceRed": [{ "File": "motions/E08FaceRed.motion3.json" }],
+      "E09FaceBlack": [{ "File": "motions/E09FaceBlack.motion3.json" }],
+      "E10FaceColorReset": [
+        { "File": "motions/E10FaceColorReset.motion3.json" }
+      ],
+      "E11SPEyeDefault": [{ "File": "motions/E11SPEyeDefault.motion3.json" }],
+      "E12SPEyeOO": [{ "File": "motions/E12SPEyeOO.motion3.json" }],
+      "E13SPEyeVV": [{ "File": "motions/E13SPEyeVV.motion3.json" }],
+      "E14HandBack": [{ "File": "motions/E14HandBack.motion3.json" }],
+      "E15HandOutward": [{ "File": "motions/E15HandOutward.motion3.json" }],
+      "E16HandReset": [{ "File": "motions/E16HandReset.motion3.json" }],
+      "E17AssMoveOff": [{ "File": "motions/E17AssMoveOff.motion3.json" }],
+      "E18EyeDis": [{ "File": "motions/E18EyeDis.motion3.json" }],
+      "S01FaceReset": [{ "File": "motions/S01FaceReset.motion3.json" }],
+      "S02FaceSmile": [{ "File": "motions/S02FaceSmile.motion3.json" }],
+      "S03FaceExcited": [{ "File": "motions/S03FaceExcited.motion3.json" }],
+      "S04FaceSad": [{ "File": "motions/S04FaceSad.motion3.json" }],
+      "S05FaceBlack": [{ "File": "motions/S05FaceBlack.motion3.json" }],
+      "S06FaceAngry": [{ "File": "motions/S06FaceAngry.motion3.json" }],
+      "S07FaceTired": [{ "File": "motions/S07FaceTired.motion3.json" }],
+      "S08FaceSilly": [{ "File": "motions/S08FaceSilly.motion3.json" }],
+      "S09FaceShock": [{ "File": "motions/S09FaceShock.motion3.json" }]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": ["ParamEyeLOpen", "ParamEyeROpen"]
+    }
+  ],
+  "HitAreas": []
+}

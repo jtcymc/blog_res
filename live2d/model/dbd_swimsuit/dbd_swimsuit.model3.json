@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "dbd_swimsuit.moc3",
+		"Textures": [
+			"dbd_swimsuit.4096/texture_00.png",
+			"dbd_swimsuit.4096/texture_01.png",
+			"dbd_swimsuit.4096/texture_02.png"
+		],
+		"Physics": "dbd_swimsuit.physics3.json",
+		"DisplayInfo": "dbd_swimsuit.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpenLeft",
+				"ParamEyeLOpenRight"
+			]
+		}
+	]
+}

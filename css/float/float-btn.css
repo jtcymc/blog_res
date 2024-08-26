@@ -1,0 +1,24 @@
+.floatTools {
+  position: fixed;
+  left: 1rem;
+  top: 50vh;
+  z-index: 19999;
+  box-shadow: 0 0 0.5rem rgba(0,0,0,.1);
+  background: rgba(253,253,253,0.3);
+  border-radius: .3125rem;
+  
+}
+.floatTools .float-item {
+  display: flex;
+  width: 1.875rem;
+  height: 1.875rem;
+  opacity: 0.5;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #e9546b;
+  &:hover {
+    opacity: 0.9;
+  }
+}
